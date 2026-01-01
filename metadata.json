@@ -1,0 +1,5 @@
+{
+  "name": "Attention Lens: NLP Visualizer",
+  "description": "An interactive educational tool that visualizes how the attention mechanism in deep learning models dynamically focuses on input words during machine translation tasks.",
+  "requestFramePermissions": []
+}
